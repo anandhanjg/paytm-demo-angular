@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "paytm-demo"
+    }
+  },
+  "defaultProject": "paytm-demo",
+  "cli": {
+    "analytics": false
+  }
 }
